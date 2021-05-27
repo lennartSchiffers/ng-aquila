@@ -3,7 +3,7 @@ $nx-theme: (
 
   // we have some components with transparent background: checkbox, formfield, code-input, circle-toggle, radio-button e.g
   // right now they all have a hardcoded transparent background; consider using ui-background or a new ui-variable for that in future
-  ui-background: #0f2a3d,
+  ui-background: #0d1753,
   ui-01: ui-background, // background of elements having the same background color as the page (message, datefield, header, dropdown)
   ui-02: #143851, // background of things on ui-01, expansion panel, menu, table, sidebar
   ui-03: #194666, // more darker light grey background, e.g. progressbar, header, table, tag, tertiary button
